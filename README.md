@@ -1,6 +1,11 @@
 # weather-app
 
-## Explanation
+## Purpose of application
 
-We have been given an extension through the christmas break for this homework, and I have not been able to complete it as I have been sick possibly with COVID. Will resubmit with deployed application very soon.
+To be able to input a location and get the current weather and a 5 day forecast for the chosen location.
+
+## Link to the deployed application
+
+https://cnb10100.github.io/weather-app/
+
 
